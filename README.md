@@ -1,8 +1,8 @@
-#Controller------管理插件
+# Controller------管理插件
 作者Spiderman 转载请标注作者 
 <br>禁止倒卖修改作者名
 
-##功能介绍
+## 功能介绍
 
     禁止水流动
     禁止岩浆流动
@@ -17,10 +17,10 @@
     死亡不掉落
     禁用饥饿度
         
-##配置文件介绍 
+## 配置文件介绍 
     
     
-###Message.yml  这个配置文件是自定义提示信息
+### Message.yml  这个配置文件是自定义提示信息
 
     禁止创造PVP: §b{§eController§b} §a服务器已开启禁止创造模式PVP!
     进入返回主城: §b{§eController§b} §6服务器已开启进服返回主城，已将您传送回主城！
@@ -32,13 +32,13 @@
     死亡不掉落: §b{§eController§b} §a服务器已开启死亡不掉落，现已归还物品！
 
 
-###Admins.yml
+### Admins.yml
     请在这个配置文件按
     - LBW
     - PPD
     如上添加管理员
     
-###Config.yml
+### Config.yml
 
 /
 <br>true是开启功能,false是关闭功能
@@ -74,7 +74,7 @@
     
 
 
-##指令介绍
+## 指令介绍
     
     /ct addadmins 玩家名                添加管理员(§a仅限在后台输入)
     /ct deladmins 玩家名                删除管理员(§a仅限在后台输入)
